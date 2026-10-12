@@ -65,7 +65,7 @@ actually,0.11
 acute,-1.24
 ad,0.61
 ada,0.56
-adam,0.74-2.55
+adam,0.74
 adams,0.35
 add,0.22
 added,-0.52
