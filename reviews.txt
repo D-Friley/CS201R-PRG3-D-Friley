@@ -12,14 +12,14 @@ WORDS UPDATED TO BE MORE POSITIVE:
 No words were replaced.
 
 MUTATED MORE NEGATIVE REVIEW:
-This was an crash restaurant! The pizza crust was pig, and I opponents the
-pasta. The atmosphere was pet and enchanting.
-NEW NEGATIVE SENTIMENT: -6.58
+This was an events restaurant! The pizza crust was severe, and I random the
+pasta. The atmosphere was unnatural and enchanting.
+NEW NEGATIVE SENTIMENT: -8.63
 WORDS UPDATED TO BE MORE NEGATIVE:
-amazing         1.26   ->   crash           -2.05 
-delicious,      2.20   ->   pig,            -1.46 
-loved           1.21   ->   opponents       -2.26 
-wonderful       2.76   ->   pet             -1.33 
+amazing         1.26   ->   events          -2.85 
+delicious,      2.20   ->   severe,         -1.51 
+loved           1.21   ->   random          -2.15 
+wonderful       2.76   ->   unnatural       -2.64 
 
 
 
@@ -52,71 +52,71 @@ ORIGINAL SENTIMENT: 29.91
 MUTATED MORE POSITIVE REVIEW:
 An interesting local place with river views and good food in the moderate price
 range. It leans heavily toward sea food but there are menu items for the
-happiness and bovine inclined. Reservations for diner are a must, particularly
+beautiful and bovine inclined. Reservations for diner are a must, particularly
 on Friday and Saturday or any day a popular show is appearing at the Count
-Basie Theatre. Two appetizers and two entrees with nonalcoholic together set us
-back $91 with tip. Fairly reasonable. We sat at a lovely set, uncomplicated,
-table with a beautiful view of the Navesink river and it's boat traffic. The
-service was polite, amiable and generally proficient about seeing to our needs.
-On this day I opened with the caprese salad which was very nicely done. The
-pesto was a tasty accent, not over powering. The wet mozzarella perfect and
-heirloom tomatoes glorious. They flavors coming together very nicely. My wife
-had an oyster dish that I'm having a senior moment trying to pull the name from
-memory, however it's sauce was delicious (I'm not a refreshing oyster fan). I
-kept my entree simple: fish and chips. The fish was a nice thick piece of cod,
-not some cod replacement and fried to perfection. The fries were fries. My wife
-had the lobster roll, which she gave high marks. Overall a good place to dine
-before a show or after a late afternoon/ early evening walk about. It's not
-child emma and a few dotted the tables while we were there but, at dinner at
-least, it runs toward an adult crowd. The parking can be difficult on popular
-show nights or Friday evening but the municipal lot is just across the street
-and you don't have to pay after 6pm. It's a thumbs up here.
-NEW POSITIVE SENTIMENT: 44.72
+Basie Theatre. Two appetizers and two entrees with nonalcoholic relationship
+set us back $91 with tip. Fairly reasonable. We sat at a lovely set,
+uncomplicated, table with a beautiful view of the Navesink river and it's boat
+traffic. The service was polite, amiable and generally proficient about seeing
+to our needs. On this day I opened with the caprese salad which was very nicely
+done. The pesto was a tasty accent, not over powering. The wet mozzarella
+perfect and heirloom tomatoes glorious. They flavors coming together very
+nicely. My wife had an oyster dish that I'm having a senior moment trying to
+pull the name from memory, however it's sauce was delicious (I'm not a youthful
+oyster fan). I kept my entree simple: fish and chips. The fish was a nice thick
+piece of cod, not some cod replacement and fried to perfection. The fries were
+fries. My wife had the lobster roll, which she gave high marks. Overall a good
+place to dine before a show or after a late afternoon/ early evening walk
+about. It's not child sure and a few dotted the tables while we were there but,
+at dinner at least, it runs toward an adult crowd. The parking can be difficult
+on popular show nights or Friday evening but the municipal lot is just across
+the street and you don't have to pay after 6pm. It's a thumbs up here.
+NEW POSITIVE SENTIMENT: 44.19
 WORDS UPDATED TO BE MORE POSITIVE:
-foul            -2.84  ->   happiness       2.51  
-drinks          -1.34  ->   together        2.09  
-big             -1.22  ->   refreshing      2.38  
-adverse         -1.05  ->   emma            1.38  
+foul            -2.84  ->   beautiful       2.73  
+drinks          -1.34  ->   relationship    1.89  
+big             -1.22  ->   youthful        1.80  
+adverse         -1.05  ->   sure            1.41  
 
 MUTATED MORE NEGATIVE REVIEW:
-An murder local place with river views and good food in the moderate price
+An blame local place with river views and good food in the moderate price
 range. It leans heavily toward sea food but there are menu items for the foul
 and bovine inclined. Reservations for diner are a must, particularly on Friday
-and Saturday or any day a feeble show is appearing at the Count Basie Theatre.
-Two appetizers and two entrees with nonalcoholic drinks set us back $91 with
-tip. Fairly scream. We sat at a lovely set, uncomplicated, table with a
-homeless view of the Navesink river and it's boat traffic. The service was
-nasty, amiable and generally proficient about seeing to our needs. On this day
-I opened with the caprese salad which was very nicely done. The pesto was a
-giant unbelievable, not over powering. The wet mozzarella perfect and heirloom
-tomatoes caused. They flavors coming bother very nicely. My ashamed had an
+and Saturday or any day a dangerous show is appearing at the Count Basie
+Theatre. Two appetizers and two entrees with nonalcoholic drinks set us back
+$91 with tip. Fairly bizarre. We sat at a lovely set, uncomplicated, table with
+a nervous view of the Navesink river and it's boat traffic. The service was
+act, amiable and generally proficient about seeing to our needs. On this day I
+opened with the caprese salad which was very nicely done. The pesto was a
+restless worried, not over powering. The wet mozzarella perfect and heirloom
+tomatoes racial. They flavors coming hostile very nicely. My racial had an
 oyster dish that I'm having a senior moment trying to pull the name from
-memory, however it's sauce was accused (I'm not a big oyster fan). I kept my
-entree simple: fish and chips. The fish was a disastrous thick piece of cod,
+memory, however it's sauce was awful (I'm not a big oyster fan). I kept my
+entree simple: fish and chips. The fish was a humiliating thick piece of cod,
 not some cod replacement and fried to perfection. The fries were fries. My
-burns had the lobster roll, which she gave high marks. repeatedly a good place
+agitated had the lobster roll, which she gave high marks. starving a good place
 to dine before a show or after a late afternoon/ early evening walk about. It's
 not child adverse and a few dotted the tables while we were there but, at
 dinner at least, it runs toward an adult crowd. The parking can be difficult on
-mad show nights or Friday evening but the municipal lot is just across the
+trouble show nights or Friday evening but the municipal lot is just across the
 street and you don't have to pay after 6pm. It's a thumbs up here.
-NEW NEGATIVE SENTIMENT: -23.37
+NEW NEGATIVE SENTIMENT: -23.15
 WORDS UPDATED TO BE MORE NEGATIVE:
-interesting     1.61   ->   murder          -1.93 
-popular         1.05   ->   feeble          -1.50 
-reasonable.     1.30   ->   scream.         -2.79 
-beautiful       2.73   ->   homeless        -2.07 
-polite,         1.91   ->   nasty,          -2.50 
-tasty           2.52   ->   giant           -1.33 
-accent,         1.73   ->   unbelievable,   -1.46 
-glorious.       1.65   ->   caused.         -1.51 
-together        2.09   ->   bother          -2.20 
-wife            1.23   ->   ashamed         -1.47 
-delicious       2.20   ->   accused         -1.50 
-nice            2.09   ->   disastrous      -1.99 
-wife            1.23   ->   burns           -1.91 
-Overall         1.18   ->   repeatedly      -1.28 
-popular         1.05   ->   mad             -2.27 
+interesting     1.61   ->   blame           -2.59 
+popular         1.05   ->   dangerous       -1.82 
+reasonable.     1.30   ->   bizarre.        -2.09 
+beautiful       2.73   ->   nervous         -1.69 
+polite,         1.91   ->   act,            -1.33 
+tasty           2.52   ->   restless        -1.54 
+accent,         1.73   ->   worried,        -2.34 
+glorious.       1.65   ->   racial.         -1.30 
+together        2.09   ->   hostile         -1.75 
+wife            1.23   ->   racial          -1.30 
+delicious       2.20   ->   awful           -3.21 
+nice            2.09   ->   humiliating     -2.19 
+wife            1.23   ->   agitated        -1.65 
+Overall         1.18   ->   starving        -1.43 
+popular         1.05   ->   trouble         -1.26 
 
 
 
@@ -132,30 +132,30 @@ ORIGINAL SENTIMENT: -3.10
 
 MUTATED MORE POSITIVE REVIEW:
 "Jennifer is very nice and responsive. The location of the apt is great.
-However - the bed was small and secure bad. The apt also marvelous beautiful.
-We had to sleep on a mattress on the floor - the building is very old. - the
-apt is not brilliant and due to construction it was very honey. However. We do
-appreciate the stay and the location"
-NEW POSITIVE SENTIMENT: 14.95
+However - the bed was small and proper bad. The apt also emma trust. We had to
+sleep on a mattress on the floor - the building is very old. - the apt is not
+gown and due to construction it was very fine. However. We do appreciate the
+stay and the location"
+NEW POSITIVE SENTIMENT: 13.53
 WORDS UPDATED TO BE MORE POSITIVE:
-smelled         -2.44  ->   secure          2.05  
-smelled         -2.44  ->   marvelous       1.58  
-weird.          -1.32  ->   beautiful.      2.73  
-clean           -1.06  ->   brilliant       1.76  
-noisy.          -1.32  ->   honey.          1.35  
+smelled         -2.44  ->   proper          1.28  
+smelled         -2.44  ->   emma            1.38  
+weird.          -1.32  ->   trust.          1.76  
+clean           -1.06  ->   gown            1.91  
+noisy.          -1.32  ->   fine.           1.72  
 
 MUTATED MORE NEGATIVE REVIEW:
-"Jennifer is very changed and mindless. The location of the apt is insane.
-However - the bed was small and smelled bad. The apt also smelled weird. We had
-to sleep on a mattress on the floor - the building is very old. - the apt is
-not clean and due to construction it was very noisy. However. We do crash the
-stay and the location"
-NEW NEGATIVE SENTIMENT: -16.35
+"Jennifer is very bitter and pain. The location of the apt is scream. However -
+the bed was small and smelled bad. The apt also smelled weird. We had to sleep
+on a mattress on the floor - the building is very old. - the apt is not clean
+and due to construction it was very noisy. However. We do foul the stay and the
+location"
+NEW NEGATIVE SENTIMENT: -18.89
 WORDS UPDATED TO BE MORE NEGATIVE:
-nice            2.09   ->   changed         -1.26 
-responsive.     1.03   ->   mindless.       -2.56 
-great.          1.48   ->   insane.         -1.30 
-appreciate      1.48   ->   crash           -2.05 
+nice            2.09   ->   bitter          -2.66 
+responsive.     1.03   ->   pain.           -1.42 
+great.          1.48   ->   scream.         -2.79 
+appreciate      1.48   ->   foul            -2.84 
 
 
 
@@ -179,60 +179,60 @@ environment, I throughly recommend Bliss Art Space!
 ORIGINAL SENTIMENT: 26.36
 
 MUTATED MORE POSITIVE REVIEW:
-Garon is undoubtedly the most welcoming and nice host ever. You presbyterian at
-home right away, he is exciting and passionate, discussions are super
-interesting and he is extremely friendly. A stay at his place is a good mood
-cure. I highly recommend! It was so nice staying at Garon's! For the first
-glance it didn't look very fancy or something, but this place is gorgeous from
-inside out. It's pretty easy to get to subway G train or if you walk a little
-more you can get to A train which goes directly to JFK airport. Garon is a very
-kind person, very open-minded and friendly! We also have a lot in common in
-area of culture! I'll recommend this place to everyone who is open-minded and
-want to sure how people live there in NYC. Neighborhood looked safe. Despite it
-was one of the coldest weeks for last year in town, but heating worked well and
-the room was warm! "I had the most beautiful stay, Garon is a very special
-person and an plump angel, made me wedding totally at home in a highly peaceful
-and relaxed environment, I throughly recommend Bliss Art Space!
-NEW POSITIVE SENTIMENT: 38.50
+Garon is undoubtedly the most welcoming and nice host ever. You kiss at home
+right away, he is exciting and passionate, discussions are super interesting
+and he is extremely friendly. A stay at his place is a good mood cure. I highly
+recommend! It was so nice staying at Garon's! For the first glance it didn't
+look very fancy or something, but this place is gorgeous from inside out. It's
+pretty easy to get to subway G train or if you walk a little more you can get
+to A train which goes directly to JFK airport. Garon is a very kind person,
+very open-minded and friendly! We also have a lot in common in area of culture!
+I'll recommend this place to everyone who is open-minded and want to husband
+how people live there in NYC. Neighborhood looked safe. Despite it was one of
+the coldest weeks for last year in town, but heating worked well and the room
+was warm! "I had the most beautiful stay, Garon is a very special person and an
+pretty angel, made me glorious totally at home in a highly peaceful and relaxed
+environment, I throughly recommend Bliss Art Space!
+NEW POSITIVE SENTIMENT: 37.32
 WORDS UPDATED TO BE MORE POSITIVE:
-feel            -1.07  ->   presbyterian    1.58  
-feel            -1.07  ->   sure            1.41  
-absolute        -1.51  ->   plump           2.04  
-feel            -1.07  ->   wedding         2.39  
+feel            -1.07  ->   kiss            1.90  
+feel            -1.07  ->   husband         1.37  
+absolute        -1.51  ->   pretty          1.32  
+feel            -1.07  ->   glorious        1.65  
 
 MUTATED MORE NEGATIVE REVIEW:
-Garon is undoubtedly the most painful and crushing host ever. You feel at home
-necessarily away, he is exciting and passionate, discussions are super
-impoverished and he is extremely dealing. A stay at his place is a good mood
-cure. I highly recommend! It was so deadly staying at Garon's! For the first
-glance it didn't look very fancy or something, but this place is scent from
-inside out. It's crude starving to get to subway G train or if you walk a
-little more you can get to A train which goes directly to JFK airport. Garon is
-a very kind person, very open-minded and bears! We also have a lot in common in
-area of culture! I'll recommend this place to everyone who is open-minded and
-want to feel how people live there in NYC. Neighborhood looked embarrassed.
-Despite it was one of the coldest weeks for last year in town, but heating
-worked illness and the room was unemployed! "I had the most likes stay, Garon
-is a very special person and an absolute angel, made me feel totally at home in
-a highly pain and dealing environment, I throughly recommend Bliss Art Space!
-NEW NEGATIVE SENTIMENT: -34.69
+Garon is undoubtedly the most mundane and rural host ever. You feel at home
+humans away, he is exciting and passionate, discussions are super trouble and
+he is extremely feared. A stay at his place is a good mood cure. I highly
+recommend! It was so strikes staying at Garon's! For the first glance it didn't
+look very fancy or something, but this place is trembling from inside out. It's
+ridiculous terrorism to get to subway G train or if you walk a little more you
+can get to A train which goes directly to JFK airport. Garon is a very kind
+person, very open-minded and occur! We also have a lot in common in area of
+culture! I'll recommend this place to everyone who is open-minded and want to
+feel how people live there in NYC. Neighborhood looked bothered. Despite it was
+one of the coldest weeks for last year in town, but heating worked racial and
+the room was ugly! "I had the most communities stay, Garon is a very special
+person and an absolute angel, made me feel totally at home in a highly smells
+and dirty environment, I throughly recommend Bliss Art Space!
+NEW NEGATIVE SENTIMENT: -35.36
 WORDS UPDATED TO BE MORE NEGATIVE:
-welcoming       2.41   ->   painful         -3.69 
-nice            2.09   ->   crushing        -1.66 
-right           1.35   ->   necessarily     -2.07 
-interesting     1.61   ->   impoverished    -1.79 
-friendly.       1.94   ->   dealing.        -1.80 
-nice            2.09   ->   deadly          -2.26 
-gorgeous        2.68   ->   scent           -2.19 
-pretty          1.32   ->   crude           -1.85 
-easy            1.97   ->   starving        -1.43 
-friendly!       1.94   ->   bears!          -1.32 
-safe.           2.08   ->   embarrassed.    -1.56 
-well            1.50   ->   illness         -1.44 
-warm!           1.46   ->   unemployed!     -1.60 
-beautiful       2.73   ->   likes           -1.93 
-peaceful        2.22   ->   pain            -1.42 
-relaxed         1.85   ->   dealing         -1.80 
+welcoming       2.41   ->   mundane         -1.70 
+nice            2.09   ->   rural           -2.66 
+right           1.35   ->   humans          -1.42 
+interesting     1.61   ->   trouble         -1.26 
+friendly.       1.94   ->   feared.         -1.62 
+nice            2.09   ->   strikes         -1.48 
+gorgeous        2.68   ->   trembling       -1.39 
+pretty          1.32   ->   ridiculous      -2.76 
+easy            1.97   ->   terrorism       -1.44 
+friendly!       1.94   ->   occur!          -1.67 
+safe.           2.08   ->   bothered.       -2.19 
+well            1.50   ->   racial          -1.30 
+warm!           1.46   ->   ugly!           -3.90 
+beautiful       2.73   ->   communities     -1.39 
+peaceful        2.22   ->   smells          -2.36 
+relaxed         1.85   ->   dirty           -1.94 
 
 
 
@@ -250,28 +250,28 @@ ORIGINAL SENTIMENT: 2.25
 MUTATED MORE POSITIVE REVIEW:
 For my stay the apartment was also not ideal, there is no couch, only cushions
 on the floor and there is no real table and chairs. I had to work from home
-convenient and could not really do it anywhere. The place was outstanding in
-general, only the bathroom and the shower were really not okay. Especially the
-shower curtain was mildewed. The kitchen was beauty and well equipped.
-Apartment has an AC, which is definitely a pro.
-NEW POSITIVE SENTIMENT: 11.00
+birthday and could not really do it anywhere. The place was mutual in general,
+only the bathroom and the shower were really not okay. Especially the shower
+curtain was mildewed. The kitchen was treasured and well equipped. Apartment
+has an AC, which is definitely a pro.
+NEW POSITIVE SENTIMENT: 11.41
 WORDS UPDATED TO BE MORE POSITIVE:
-sometimes       -1.10  ->   convenient      1.79  
-clean           -1.06  ->   outstanding     1.29  
-clean           -1.06  ->   beauty          2.45  
+sometimes       -1.10  ->   birthday        2.36  
+clean           -1.06  ->   mutual          1.96  
+clean           -1.06  ->   treasured       1.62  
 
 MUTATED MORE NEGATIVE REVIEW:
-For my stay the apartment was also not bug, there is no couch, only cushions on
-the floor and there is no real table and chairs. I had to work from home
-sometimes and could not really do it anywhere. The place was clean in general,
-only the bathroom and the shower were really not stunned. Especially the shower
-curtain was mildewed. The kitchen was clean and battles equipped. Apartment has
-an AC, which is definitely a pro.
-NEW NEGATIVE SENTIMENT: -7.41
+For my stay the apartment was also not elderly, there is no couch, only
+cushions on the floor and there is no real table and chairs. I had to work from
+home sometimes and could not really do it anywhere. The place was clean in
+general, only the bathroom and the shower were really not sorts. Especially the
+shower curtain was mildewed. The kitchen was clean and nation equipped.
+Apartment has an AC, which is definitely a pro.
+NEW NEGATIVE SENTIMENT: -8.00
 WORDS UPDATED TO BE MORE NEGATIVE:
-ideal,          2.22   ->   bug,            -1.26 
-okay.           1.05   ->   stunned.        -1.32 
-well            1.50   ->   battles         -2.31 
+ideal,          2.22   ->   elderly,        -1.37 
+okay.           1.05   ->   sorts.          -2.84 
+well            1.50   ->   nation          -1.27 
 
 
 
@@ -303,7 +303,7 @@ MUTATED MORE POSITIVE REVIEW:
 The Midtown Castle is a beautiful place to stay in the center of the city.
 Truly a sanctuary with everything you need. Little touches of nature and beauty
 throughout. Waking up with the sun from the skylight was amazing. This
-apartment is convenient and functional. The huge skylight makes it appealing
+apartment is convenient and functional. The huge skylight makes it outstanding
 open and airy. And it is located smack dab in the middle of Manhattan. Highly
 recommended. Great place. Would definitely recommend! Jennifer is really sweet
 and easy going. Beautiful and stylish spot in a very unique building! Jennifer
@@ -311,62 +311,62 @@ is a wonderful host and was kind enough to meet us for out late-night check-in.
 We loved the apartment! Jennifer's space was such a lovely experience.
 PreCheckin and checkin was detailed and seamless, she made it easier on us and
 answered all questions so quickly. The space itself is such a unique, clear &
-zen energy- we loved it. Not to mention it was very orderly & close to
-everything! Definitely be prepared for the 4flight workout (we appreciated
-that)! We enjoyed the space and location & would recommend this to anyone
-coming to explore the city!! "Jennifer was super friendly and helpful. Great
-host with an amazing studio apartment right in the middle of NYC. Everything is
-walking distance! The Empire State Building, Times Square, and New York library
-were all around the corner or less than 15 minutes walk. Best location ever and
+zen energy- we loved it. Not to mention it was very slim & close to everything!
+Definitely be prepared for the 4flight workout (we appreciated that)! We
+enjoyed the space and location & would recommend this to anyone coming to
+explore the city!! "Jennifer was super friendly and helpful. Great host with an
+amazing studio apartment right in the middle of NYC. Everything is walking
+distance! The Empire State Building, Times Square, and New York library were
+all around the corner or less than 15 minutes walk. Best location ever and
 great relaxing place to stay.
-NEW POSITIVE SENTIMENT: 43.03
+NEW POSITIVE SENTIMENT: 43.42
 WORDS UPDATED TO BE MORE POSITIVE:
-feel            -1.07  ->   appealing       1.48  
-clean           -1.06  ->   orderly         1.73  
+feel            -1.07  ->   outstanding     1.29  
+clean           -1.06  ->   slim            2.31  
 
 MUTATED MORE NEGATIVE REVIEW:
-The Midtown Castle is a bother place to stay in the center of the city. Truly a
-sanctuary with everything you need. Little touches of nature and creatures
-throughout. Waking up with the sun from the skylight was trembling. This
-apartment is trembling and functional. The huge skylight makes it feel open and
-painful. And it is located smack dab in the middle of Manhattan. Highly
-recommended. occur place. Would definitely recommend! Jennifer is really
-opponents and brutal going. poisonous and mad spot in a very unique building!
-Jennifer is a frightening host and was kind enough to meet us for out
-late-night check-in. We sweat the apartment! Jennifer's space was such a lovely
-experience. PreCheckin and checkin was detailed and seamless, she made it
-easier on us and answered all questions so quickly. The space itself is such a
-unique, clear & zen energy- we desperate it. Not to mention it was very clean &
-close to everything! Definitely be prepared for the 4flight workout (we
-appreciated that)! We stinging the space and location & would recommend this to
-anyone coming to explore the city!! "Jennifer was super lingering and fiery.
-angry host with an loss studio apartment suffering in the middle of NYC.
-Everything is walking distance! The Empire State Building, Times Square, and
-New York library were all around the corner or less than 15 minutes walk.
-contrast location ever and changed relaxing place to stay.
-NEW NEGATIVE SENTIMENT: -41.67
+The Midtown Castle is a crime place to stay in the center of the city. Truly a
+sanctuary with everything you need. Little touches of nature and ominous
+throughout. Waking up with the sun from the skylight was drank. This apartment
+is crime and functional. The huge skylight makes it feel open and lately. And
+it is located smack dab in the middle of Manhattan. Highly recommended.
+circumstances place. Would definitely recommend! Jennifer is really harsh and
+practically going. attack and spell spot in a very unique building! Jennifer is
+a greedy host and was kind enough to meet us for out late-night check-in. We
+smoke the apartment! Jennifer's space was such a lovely experience. PreCheckin
+and checkin was detailed and seamless, she made it easier on us and answered
+all questions so quickly. The space itself is such a unique, clear & zen
+energy- we peculiar it. Not to mention it was very clean & close to everything!
+Definitely be prepared for the 4flight workout (we appreciated that)! We smells
+the space and location & would recommend this to anyone coming to explore the
+city!! "Jennifer was super ashamed and fault. foul host with an crash studio
+apartment frightened in the middle of NYC. Everything is walking distance! The
+Empire State Building, Times Square, and New York library were all around the
+corner or less than 15 minutes walk. shocking location ever and whole relaxing
+place to stay.
+NEW NEGATIVE SENTIMENT: -39.65
 WORDS UPDATED TO BE MORE NEGATIVE:
-beautiful       2.73   ->   bother          -2.20 
-beauty          2.45   ->   creatures       -2.42 
-amazing.        1.26   ->   trembling.      -1.39 
-convenient      1.79   ->   trembling       -1.39 
-airy.           1.69   ->   painful.        -3.69 
-Great           1.48   ->   occur           -1.67 
-sweet           1.47   ->   opponents       -2.26 
-easy            1.97   ->   brutal          -2.09 
-Beautiful       2.73   ->   poisonous       -2.16 
-stylish         1.39   ->   mad             -2.27 
-wonderful       2.76   ->   frightening     -2.59 
-loved           1.21   ->   sweat           -1.50 
-loved           1.21   ->   desperate       -2.07 
-enjoyed         1.22   ->   stinging        -3.05 
-friendly        1.94   ->   lingering       -1.69 
-helpful.        1.71   ->   fiery.          -1.57 
-Great           1.48   ->   angry           -2.30 
-amazing         1.26   ->   loss            -1.33 
-right           1.35   ->   suffering       -2.39 
-Best            1.40   ->   contrast        -2.09 
-great           1.48   ->   changed         -1.26 
+beautiful       2.73   ->   crime           -1.89 
+beauty          2.45   ->   ominous         -2.53 
+amazing.        1.26   ->   drank.          -1.36 
+convenient      1.79   ->   crime           -1.89 
+airy.           1.69   ->   lately.         -1.41 
+Great           1.48   ->   circumstances   -2.59 
+sweet           1.47   ->   harsh           -2.66 
+easy            1.97   ->   practically     -2.07 
+Beautiful       2.73   ->   attack          -1.44 
+stylish         1.39   ->   spell           -1.35 
+wonderful       2.76   ->   greedy          -2.17 
+loved           1.21   ->   smoke           -1.63 
+loved           1.21   ->   peculiar        -1.72 
+enjoyed         1.22   ->   smells          -2.36 
+friendly        1.94   ->   ashamed         -1.47 
+helpful.        1.71   ->   fault.          -2.62 
+Great           1.48   ->   foul            -2.84 
+amazing         1.26   ->   crash           -2.05 
+right           1.35   ->   frightened      -2.15 
+Best            1.40   ->   shocking        -1.76 
+great           1.48   ->   whole           -1.40 
 
 
 
@@ -403,29 +403,29 @@ No words were replaced.
 MUTATED MORE NEGATIVE REVIEW:
 Would say our greatest compliments to Jennifer, the host of Midtown Castle. We
 spent in this lovely apartment in the heart of Manhattan one month (April,
-2012) and will remember this time as ours dragon. The apartment is graphic
-stray and unbearable located - the 5-th Ave errant around the corner. There is
-everything you can need during your hurricane or long stay. Jennifer is very
-startled, vigorous and very responsible host. fearful her and highly recomend
-this apartment for everyone who are looking for a bloody place afraid in the
-center of the boiling Midtown!" We had a nasty stay at Jennifer's boring
-apartment! They were very organized and blunt; I would definitely recommend
-staying at the Midtown Castle!
-NEW NEGATIVE SENTIMENT: -19.28
+2012) and will remember this time as ours animals. The apartment is cared flies
+and elderly located - the 5-th Ave crisis around the corner. There is
+everything you can need during your pain or long stay. Jennifer is very
+situations, vigorous and very responsible host. peculiar her and highly
+recomend this apartment for everyone who are looking for a embarrassing place
+practically in the center of the boiling Midtown!" We had a sore stay at
+Jennifer's irrelevant apartment! They were very organized and eerie; I would
+definitely recommend staying at the Midtown Castle!
+NEW NEGATIVE SENTIMENT: -15.67
 WORDS UPDATED TO BE MORE NEGATIVE:
-best.           1.40   ->   dragon.         -2.51 
-pretty          1.32   ->   graphic         -1.44 
-spacious        1.07   ->   stray           -1.70 
-great           1.48   ->   unbearable      -2.45 
-right           1.35   ->   errant          -1.33 
-short           1.05   ->   hurricane       -1.78 
-friendly,       1.94   ->   startled,       -1.62 
-Thanks          1.38   ->   fearful         -1.26 
-quiet           1.34   ->   bloody          -2.48 
-right           1.35   ->   afraid          -1.40 
-wonderful       2.76   ->   nasty           -2.50 
-charming        2.53   ->   boring          -2.42 
-helpful;        1.71   ->   blunt;          -1.44 
+best.           1.40   ->   animals.        -1.43 
+pretty          1.32   ->   cared           -1.36 
+spacious        1.07   ->   flies           -1.32 
+great           1.48   ->   elderly         -1.37 
+right           1.35   ->   crisis          -1.58 
+short           1.05   ->   pain            -1.42 
+friendly,       1.94   ->   situations,     -2.75 
+Thanks          1.38   ->   peculiar        -1.72 
+quiet           1.34   ->   embarrassing    -1.76 
+right           1.35   ->   practically     -2.07 
+wonderful       2.76   ->   sore            -1.26 
+charming        2.53   ->   irrelevant      -1.32 
+helpful;        1.71   ->   eerie;          -1.36 
 
 
 
